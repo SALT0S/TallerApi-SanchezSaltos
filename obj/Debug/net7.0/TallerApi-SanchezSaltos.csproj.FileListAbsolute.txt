@@ -1,0 +1,7 @@
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.csproj.AssemblyReference.cache
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.AssemblyInfoInputs.cache
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.AssemblyInfo.cs
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.csproj.CoreCompileInputs.cache
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.MvcApplicationPartsAssemblyInfo.cs
+/Users/josesanchez/Desktop/dev/TallerApi-SanchezSaltos/obj/Debug/net7.0/TallerApi-SanchezSaltos.MvcApplicationPartsAssemblyInfo.cache
